@@ -1,0 +1,23 @@
+{
+  "name": "NEWMON",
+  "symbol": "NEWMON",
+  "description": "NEWMONNEWMONNEWMONNEWMON",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/newmon_newmon_logo_1758826125050.jpg",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/newmon_newmon_logo_1758826125050.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "5wi4tUZQm4m74zTc5WVCiGkkgNN6UVVnS1fNAtcWeKKM",
+    "network": "devnet",
+    "createdAt": "2025-09-25T18:48:47.658Z"
+  }
+}
