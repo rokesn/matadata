@@ -1,0 +1,23 @@
+{
+  "name": "Winner",
+  "symbol": "WINNER",
+  "description": "WinnerWinnerWinnerWinnerWinner",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/winner_winner_logo_1758826754727.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/winner_winner_logo_1758826754727.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "8kfsppWZNT1DJ14QLYtvosXqUAJTuX9GDjLGbhsLCAkR",
+    "network": "devnet",
+    "createdAt": "2025-09-25T18:59:18.299Z"
+  }
+}
