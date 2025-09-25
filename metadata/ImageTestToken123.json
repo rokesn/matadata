@@ -1,0 +1,32 @@
+{
+  "name": "Test Token with GitHub Image",
+  "symbol": "TESTIMG",
+  "description": "A test token with image hosted on GitHub",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ImageTestToken123.svg",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Test"
+    },
+    {
+      "trait_type": "Image Host",
+      "value": "GitHub"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ImageTestToken123.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "ImageTestToken123",
+    "network": "devnet",
+    "createdAt": "2025-09-25T16:57:28.553Z"
+  }
+}
