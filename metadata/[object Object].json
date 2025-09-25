@@ -1,0 +1,35 @@
+{
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": {
+      "name": "CCC",
+      "symbol": "CCC",
+      "decimals": 9,
+      "totalSupply": 1000000,
+      "description": "CCCCCC",
+      "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+      "creatorName": "TSDD",
+      "revokeFreezeAuthority": false,
+      "revokeMintAuthority": false,
+      "revokeUpdateAuthority": false,
+      "enablePrivateTransactions": false,
+      "anonymousCreator": false,
+      "enableMixingService": false,
+      "encryptedMetadata": false,
+      "enableTrendingBoost": false,
+      "socialMediaPromotion": false,
+      "influencerOutreach": false,
+      "communityBuilding": false,
+      "marketingAnalytics": false,
+      "logoFile": {}
+    },
+    "network": "devnet",
+    "createdAt": "2025-09-25T19:35:32.565Z"
+  }
+}
