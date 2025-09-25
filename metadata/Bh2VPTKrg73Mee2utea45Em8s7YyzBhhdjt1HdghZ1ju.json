@@ -1,0 +1,29 @@
+{
+  "name": "CCC",
+  "symbol": "CCC",
+  "description": "CCCCCC",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ccc_ccc_logo_1758828919510.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ccc_ccc_logo_1758828919510.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "Bh2VPTKrg73Mee2utea45Em8s7YyzBhhdjt1HdghZ1ju",
+    "network": "devnet",
+    "createdAt": "2025-09-25T19:35:23.008Z"
+  }
+}
