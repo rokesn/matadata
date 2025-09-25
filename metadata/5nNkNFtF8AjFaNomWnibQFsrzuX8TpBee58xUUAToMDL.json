@@ -1,0 +1,23 @@
+{
+  "name": "vbns",
+  "symbol": "VBNS",
+  "description": "vbns",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/vbns_vbns_logo_1758828496733.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/vbns_vbns_logo_1758828496733.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "5nNkNFtF8AjFaNomWnibQFsrzuX8TpBee58xUUAToMDL",
+    "network": "devnet",
+    "createdAt": "2025-09-25T19:28:19.231Z"
+  }
+}
