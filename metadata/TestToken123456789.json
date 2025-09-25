@@ -1,0 +1,32 @@
+{
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "A test token to verify GitHub metadata upload",
+  "image": "https://via.placeholder.com/512x512.png?text=TEST",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Test"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Devnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://via.placeholder.com/512x512.png?text=TEST",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "TestToken123456789",
+    "network": "devnet",
+    "createdAt": "2025-09-25T16:56:01.513Z"
+  }
+}
