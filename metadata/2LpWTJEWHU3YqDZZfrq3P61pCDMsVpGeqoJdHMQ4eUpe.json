@@ -1,0 +1,23 @@
+{
+  "name": "LOP",
+  "symbol": "LOP",
+  "description": "LOPLOPLOPLOPLOPLOP",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/lop_lop_logo_1758820012180.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/lop_lop_logo_1758820012180.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "2LpWTJEWHU3YqDZZfrq3P61pCDMsVpGeqoJdHMQ4eUpe",
+    "network": "devnet",
+    "createdAt": "2025-09-25T17:06:54.431Z"
+  }
+}
