@@ -2,16 +2,11 @@
   "name": "AMI RAFE",
   "symbol": "RAFE",
   "description": "RAFERAFERAFE",
-  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ami_rafe_rafe_logo_1758897534110.png",
+  "image": "",
   "external_url": "",
   "attributes": [],
   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ami_rafe_rafe_logo_1758897534110.png",
-        "type": "image/png"
-      }
-    ],
+    "files": [],
     "category": "image",
     "creators": [
       {
@@ -24,7 +19,7 @@
   "solana": {
     "tokenAddress": "pZYLykfd4nV7hRTDzkqfyndEXfTrnMStQN9x6PsFe1k",
     "network": "devnet",
-    "createdAt": "2025-09-26T14:38:57.045Z",
+    "createdAt": "2025-09-26T14:39:06.371Z",
     "creatorName": "RAFE",
     "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
   }
