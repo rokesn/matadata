@@ -1,0 +1,31 @@
+{
+  "name": "rafe",
+  "symbol": "RAFE",
+  "description": "raferaferaferafe",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/rafe_rafe_logo_1758862011361.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/rafe_rafe_logo_1758862011361.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "4rJmvRCJTvWpVJHErRAm2L5yr1ahZ3skN1ic54Zkk5L2",
+    "network": "devnet",
+    "createdAt": "2025-09-26T04:46:54.616Z",
+    "creatorName": "RAFE",
+    "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
+  }
+}
