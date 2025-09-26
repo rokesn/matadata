@@ -2,16 +2,11 @@
   "name": "Solan",
   "symbol": "SOLAN",
   "description": "Solan",
-  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/solan_solan_logo_1758861451806.png",
+  "image": "",
   "external_url": "",
   "attributes": [],
   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/solan_solan_logo_1758861451806.png",
-        "type": "image/png"
-      }
-    ],
+    "files": [],
     "category": "image",
     "creators": [
       {
@@ -24,7 +19,7 @@
   "solana": {
     "tokenAddress": "4x1kWkdiKThXW7dd4bcmkxK4JEv3mM7SetuNMfi5U95f",
     "network": "devnet",
-    "createdAt": "2025-09-26T04:37:34.710Z",
+    "createdAt": "2025-09-26T04:37:44.596Z",
     "creatorName": "RAFE",
     "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
   }
