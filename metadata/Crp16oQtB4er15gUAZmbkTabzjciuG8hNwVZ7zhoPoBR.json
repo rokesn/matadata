@@ -1,0 +1,31 @@
+{
+  "name": "opbolto",
+  "symbol": "OPBOLTO",
+  "description": "opbolto",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/opbolto_opbolto_logo_1758897399443.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/opbolto_opbolto_logo_1758897399443.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "Crp16oQtB4er15gUAZmbkTabzjciuG8hNwVZ7zhoPoBR",
+    "network": "devnet",
+    "createdAt": "2025-09-26T14:36:41.579Z",
+    "creatorName": "RAFE",
+    "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
+  }
+}
