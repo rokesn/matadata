@@ -2,23 +2,18 @@
   "name": "Revoke",
   "symbol": "REVOKE",
   "description": "RevokeRevokeRevokeRevokeRevokeRevoke",
-  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/revoke_revoke_logo_1758890814075.png",
+  "image": "",
   "external_url": "",
   "attributes": [],
   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/revoke_revoke_logo_1758890814075.png",
-        "type": "image/png"
-      }
-    ],
+    "files": [],
     "category": "image",
     "creators": []
   },
   "solana": {
     "tokenAddress": "3q9p83YBfYSVT1Ge37rcDaFNiymLuvHNiTBNzkKXejjp",
     "network": "devnet",
-    "createdAt": "2025-09-26T12:46:57.562Z",
+    "createdAt": "2025-09-26T12:47:08.831Z",
     "creatorName": null,
     "creatorAddress": null
   }
