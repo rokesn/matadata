@@ -8,11 +8,11 @@
   },
   "solana": {
     "tokenAddress": {
-      "name": "CCC",
-      "symbol": "CCC",
+      "name": "CREATOR",
+      "symbol": "CREATOR",
       "decimals": 9,
       "totalSupply": 1000000,
-      "description": "CCCCCC",
+      "description": "CREATORCREATORCREATORCREATOR",
       "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
       "creatorName": "TSDD",
       "revokeFreezeAuthority": false,
@@ -30,6 +30,7 @@
       "logoFile": {}
     },
     "network": "devnet",
-    "createdAt": "2025-09-25T19:35:32.565Z"
+    "createdAt": "2025-09-26T03:32:37.367Z",
+    "creatorName": "Unknown"
   }
 }
