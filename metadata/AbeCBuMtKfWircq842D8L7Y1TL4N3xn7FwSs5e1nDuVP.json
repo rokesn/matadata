@@ -2,16 +2,11 @@
   "name": "ssss",
   "symbol": "SSSS",
   "description": "ssssssssssss",
-  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ssss_ssss_logo_1758862766381.png",
+  "image": "",
   "external_url": "",
   "attributes": [],
   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/ssss_ssss_logo_1758862766381.png",
-        "type": "image/png"
-      }
-    ],
+    "files": [],
     "category": "image",
     "creators": [
       {
@@ -24,7 +19,7 @@
   "solana": {
     "tokenAddress": "AbeCBuMtKfWircq842D8L7Y1TL4N3xn7FwSs5e1nDuVP",
     "network": "devnet",
-    "createdAt": "2025-09-26T04:59:29.201Z",
+    "createdAt": "2025-09-26T04:59:41.304Z",
     "creatorName": "TSDD",
     "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
   }
