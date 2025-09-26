@@ -1,0 +1,31 @@
+{
+  "name": "ORIPKS",
+  "symbol": "ORIPKS",
+  "description": "ORIPKS asc",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/oripks_oripks_logo_1758905867955.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/oripks_oripks_logo_1758905867955.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "DrhRpFXFpMSJhpoTggkSHqozABUjWHhXGVSDAVEAs8Kj",
+    "network": "devnet",
+    "createdAt": "2025-09-26T16:57:50.485Z",
+    "creatorName": "RAFE",
+    "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
+  }
+}
