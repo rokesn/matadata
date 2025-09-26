@@ -2,23 +2,18 @@
   "name": "SACM",
   "symbol": "SACM",
   "description": "SACM",
-  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/sacm_sacm_logo_1758897893043.png",
+  "image": "",
   "external_url": "",
   "attributes": [],
   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/sacm_sacm_logo_1758897893043.png",
-        "type": "image/png"
-      }
-    ],
+    "files": [],
     "category": "image",
     "creators": []
   },
   "solana": {
     "tokenAddress": "5veGPNjehwqhNLQNCDnrtx44edajt4zoNjAG7Fqy3bwh",
     "network": "devnet",
-    "createdAt": "2025-09-26T14:44:56.614Z",
+    "createdAt": "2025-09-26T14:45:11.894Z",
     "creatorName": null,
     "creatorAddress": null
   }
