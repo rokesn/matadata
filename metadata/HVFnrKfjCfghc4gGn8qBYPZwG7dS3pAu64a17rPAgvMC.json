@@ -1,0 +1,31 @@
+{
+  "name": "ORIO",
+  "symbol": "ORIO",
+  "description": "ORIO",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/orio_orio_logo_1758905719965.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/orio_orio_logo_1758905719965.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "HVFnrKfjCfghc4gGn8qBYPZwG7dS3pAu64a17rPAgvMC",
+    "network": "devnet",
+    "createdAt": "2025-09-26T16:55:21.938Z",
+    "creatorName": "RAFE",
+    "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
+  }
+}
