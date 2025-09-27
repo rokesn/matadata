@@ -1,0 +1,20 @@
+{
+  "name": "Payment",
+  "symbol": "PAYMENT",
+  "description": "Payment",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "H1rRAnaRcuHQiGifoX6qEtewq3bfYDi542xA5pr6Zg6m",
+    "network": "devnet",
+    "createdAt": "2025-09-27T07:32:34.347Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
