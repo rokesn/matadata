@@ -1,0 +1,31 @@
+{
+  "name": "Token ",
+  "symbol": "TOKEN",
+  "description": "Token ",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/token__token_logo_1758940442282.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/token__token_logo_1758940442282.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CmWsYHrrb6dUeGUSWiE8JQskWeLYojiCYBbSJw6ZH6p6",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "H7EB4eNdYWQoi2N22Lg2FQwAfdfzfMEcrfS88qbobudE",
+    "network": "devnet",
+    "createdAt": "2025-09-27T02:34:06.454Z",
+    "creatorName": "RAFE",
+    "creatorAddress": "CmWsYHrrb6dUeGUSWiE8JQskWeLYojiCYBbSJw6ZH6p6"
+  }
+}
