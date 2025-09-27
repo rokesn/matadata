@@ -1,0 +1,25 @@
+{
+  "name": "MSN",
+  "symbol": "MSN",
+  "description": "MSN",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/msn_msn_logo_1758995275525.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/msn_msn_logo_1758995275525.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "DniF7ibXz8kLNqcTkYTNN9qu2aVL1tVCKbpaxrmuv8VD",
+    "network": "devnet",
+    "createdAt": "2025-09-27T17:47:58.205Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
