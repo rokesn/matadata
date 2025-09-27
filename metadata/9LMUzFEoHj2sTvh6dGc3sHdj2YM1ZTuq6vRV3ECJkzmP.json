@@ -1,0 +1,20 @@
+{
+  "name": "sss",
+  "symbol": "SSS",
+  "description": "sss",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "9LMUzFEoHj2sTvh6dGc3sHdj2YM1ZTuq6vRV3ECJkzmP",
+    "network": "devnet",
+    "createdAt": "2025-09-27T14:30:01.748Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
