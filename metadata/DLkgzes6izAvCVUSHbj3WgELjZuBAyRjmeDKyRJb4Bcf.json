@@ -1,0 +1,25 @@
+{
+  "name": "He",
+  "symbol": "HE",
+  "description": "He",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/he_he_logo_1758993645313.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/he_he_logo_1758993645313.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "DLkgzes6izAvCVUSHbj3WgELjZuBAyRjmeDKyRJb4Bcf",
+    "network": "devnet",
+    "createdAt": "2025-09-27T17:20:49.156Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
