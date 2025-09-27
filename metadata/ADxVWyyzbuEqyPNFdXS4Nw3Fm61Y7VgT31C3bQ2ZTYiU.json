@@ -1,0 +1,20 @@
+{
+  "name": "Winner",
+  "symbol": "WINNER",
+  "description": "",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "ADxVWyyzbuEqyPNFdXS4Nw3Fm61Y7VgT31C3bQ2ZTYiU",
+    "network": "devnet",
+    "createdAt": "2025-09-27T08:21:10.040Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
