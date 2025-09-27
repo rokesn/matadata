@@ -1,0 +1,25 @@
+{
+  "name": "sss",
+  "symbol": "SSS",
+  "description": "sss",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/sss_sss_logo_1758979535441.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/sss_sss_logo_1758979535441.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "33JJzQqpzM5uP3LMg2ij1MDvLVuu9EJmEfGU9fnGnG2G",
+    "network": "devnet",
+    "createdAt": "2025-09-27T13:25:38.924Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
