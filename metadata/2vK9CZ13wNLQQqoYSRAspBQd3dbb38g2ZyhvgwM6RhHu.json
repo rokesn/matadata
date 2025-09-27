@@ -1,0 +1,20 @@
+{
+  "name": "wallet",
+  "symbol": "WALLET",
+  "description": "wallet",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "2vK9CZ13wNLQQqoYSRAspBQd3dbb38g2ZyhvgwM6RhHu",
+    "network": "devnet",
+    "createdAt": "2025-09-27T05:14:39.328Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
