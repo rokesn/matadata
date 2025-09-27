@@ -1,0 +1,20 @@
+{
+  "name": "SSCA",
+  "symbol": "SSCA",
+  "description": "SSCA",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "FXJj28wjVQ79si33D6eTGWEq1eSbE1YTFjKtjcfe9E1n",
+    "network": "devnet",
+    "createdAt": "2025-09-27T17:46:22.116Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
