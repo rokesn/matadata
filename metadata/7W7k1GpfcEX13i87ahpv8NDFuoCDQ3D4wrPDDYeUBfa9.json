@@ -1,0 +1,31 @@
+{
+  "name": "lottery",
+  "symbol": "LOTTERY",
+  "description": "lottery",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/lottery_lottery_logo_1758994813587.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/lottery_lottery_logo_1758994813587.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  },
+  "solana": {
+    "tokenAddress": "7W7k1GpfcEX13i87ahpv8NDFuoCDQ3D4wrPDDYeUBfa9",
+    "network": "devnet",
+    "createdAt": "2025-09-27T17:40:16.919Z",
+    "creatorName": "RAFE",
+    "creatorAddress": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa"
+  }
+}
