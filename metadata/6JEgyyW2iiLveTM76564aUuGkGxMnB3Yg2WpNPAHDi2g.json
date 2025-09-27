@@ -1,0 +1,20 @@
+{
+  "name": "problem",
+  "symbol": "PROBLEM",
+  "description": "problem",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "6JEgyyW2iiLveTM76564aUuGkGxMnB3Yg2WpNPAHDi2g",
+    "network": "devnet",
+    "createdAt": "2025-09-27T13:34:49.839Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
