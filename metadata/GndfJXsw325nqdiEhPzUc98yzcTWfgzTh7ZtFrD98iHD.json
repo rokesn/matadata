@@ -1,0 +1,20 @@
+{
+  "name": "He",
+  "symbol": "HE",
+  "description": "",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "GndfJXsw325nqdiEhPzUc98yzcTWfgzTh7ZtFrD98iHD",
+    "network": "devnet",
+    "createdAt": "2025-09-28T16:24:13.391Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
