@@ -1,0 +1,20 @@
+{
+  "name": "localhost",
+  "symbol": "LOCALHOST",
+  "description": "",
+  "image": "",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "solana": {
+    "tokenAddress": "CJKYtE7tA4MXBAm7wJEkWY2z2HBN1eYVt7ozGF8WD967",
+    "network": "devnet",
+    "createdAt": "2025-09-28T14:04:59.834Z",
+    "creatorName": null,
+    "creatorAddress": null
+  }
+}
