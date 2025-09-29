@@ -1,0 +1,23 @@
+{
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "A test token for debugging",
+  "image": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": [
+      {
+        "address": "TestMintAddress123",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Test Token",
+    "family": "Solana Token Creator"
+  }
+}
