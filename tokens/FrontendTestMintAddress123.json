@@ -1,0 +1,27 @@
+{
+  "name": "Frontend Test Token",
+  "symbol": "FRONTEND",
+  "description": "Testing frontend metadata flow",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "https://twitter.com/example",
+        "telegram": "https://t.me/example",
+        "discord": "https://discord.gg/example"
+      }
+    }
+  ],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Frontend Test Token",
+    "family": "Solana Token Creator"
+  }
+}
