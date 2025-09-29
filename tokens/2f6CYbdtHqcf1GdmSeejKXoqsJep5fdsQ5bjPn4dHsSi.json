@@ -1,0 +1,23 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "description": "TEST",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/2f6CYbdtHqcf1GdmSeejKXoqsJep5fdsQ5bjPn4dHsSi.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/2f6CYbdtHqcf1GdmSeejKXoqsJep5fdsQ5bjPn4dHsSi.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "TEST",
+    "family": "Solana Token Creator"
+  }
+}
