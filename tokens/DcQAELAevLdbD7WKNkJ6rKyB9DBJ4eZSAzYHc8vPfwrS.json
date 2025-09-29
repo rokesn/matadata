@@ -1,0 +1,23 @@
+{
+  "name": "ISWORK",
+  "symbol": "ISWORK",
+  "description": "ISWORK",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/DcQAELAevLdbD7WKNkJ6rKyB9DBJ4eZSAzYHc8vPfwrS.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/DcQAELAevLdbD7WKNkJ6rKyB9DBJ4eZSAzYHc8vPfwrS.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "ISWORK",
+    "family": "Solana Token Creator"
+  }
+}
