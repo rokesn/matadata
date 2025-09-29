@@ -1,0 +1,18 @@
+{
+  "name": "TestToken",
+  "symbol": "TEST",
+  "description": "A test token",
+  "image": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "TestToken",
+    "family": "Solana Token Creator"
+  }
+}
