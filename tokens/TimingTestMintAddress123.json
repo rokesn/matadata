@@ -1,0 +1,27 @@
+{
+  "name": "Timing Test Token",
+  "symbol": "TIMING",
+  "description": "A token to test metadata timing issues",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "https://twitter.com/example",
+        "telegram": "https://t.me/example",
+        "discord": "https://discord.gg/example"
+      }
+    }
+  ],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Timing Test Token",
+    "family": "Solana Token Creator"
+  }
+}
