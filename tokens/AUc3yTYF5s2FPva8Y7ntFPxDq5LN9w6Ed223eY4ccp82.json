@@ -1,0 +1,18 @@
+{
+  "name": "TestToken3",
+  "symbol": "TEST3",
+  "description": "A third test token with metadata",
+  "image": "",
+  "attributes": [],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "TestToken3",
+    "family": "Solana Token Creator"
+  }
+}
