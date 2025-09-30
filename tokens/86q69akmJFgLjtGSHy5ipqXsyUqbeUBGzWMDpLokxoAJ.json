@@ -1,0 +1,23 @@
+{
+  "name": "ALLDONE",
+  "symbol": "ALLDONE",
+  "description": "ALLDONE",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/86q69akmJFgLjtGSHy5ipqXsyUqbeUBGzWMDpLokxoAJ.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/86q69akmJFgLjtGSHy5ipqXsyUqbeUBGzWMDpLokxoAJ.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "ALLDONE",
+    "family": "Solana Token Creator"
+  }
+}
