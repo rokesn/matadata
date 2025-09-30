@@ -1,0 +1,23 @@
+{
+  "name": "GERT",
+  "symbol": "GERT",
+  "description": "GERT",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/5cHhbA6Ypf3THebm8WP9HrNhkaZZXteqV57QJk3kp7vU.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/5cHhbA6Ypf3THebm8WP9HrNhkaZZXteqV57QJk3kp7vU.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "GERT",
+    "family": "Solana Token Creator"
+  }
+}
