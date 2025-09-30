@@ -1,0 +1,23 @@
+{
+  "name": "VECELWORK",
+  "symbol": "VECELWORK",
+  "description": "VECELWORK",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/7tMPxVDzVfgMaDiWuHMsyEsMRgoZssYBGFvB8mrq87DV.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/7tMPxVDzVfgMaDiWuHMsyEsMRgoZssYBGFvB8mrq87DV.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "VECELWORK",
+    "family": "Solana Token Creator"
+  }
+}
