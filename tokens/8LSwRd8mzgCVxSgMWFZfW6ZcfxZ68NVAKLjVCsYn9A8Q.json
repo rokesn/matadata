@@ -1,0 +1,23 @@
+{
+  "name": "lottery",
+  "symbol": "LOTTERY",
+  "description": "lottery",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/8LSwRd8mzgCVxSgMWFZfW6ZcfxZ68NVAKLjVCsYn9A8Q.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/8LSwRd8mzgCVxSgMWFZfW6ZcfxZ68NVAKLjVCsYn9A8Q.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "lottery",
+    "family": "Solana Token Creator"
+  }
+}
