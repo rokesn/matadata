@@ -1,0 +1,23 @@
+{
+  "name": "SCS",
+  "symbol": "SCS",
+  "description": "SCS",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/2XaStTTy5obEHju4fxiX38r5ucfK3hDZAp8hbJnX5M98.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/2XaStTTy5obEHju4fxiX38r5ucfK3hDZAp8hbJnX5M98.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "SCS",
+    "family": "Solana Token Creator"
+  }
+}
