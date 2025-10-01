@@ -1,0 +1,23 @@
+{
+  "name": "He",
+  "symbol": "HE",
+  "description": "He",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/94Di8UyccbXfU5b1DK4GqRQJeUm99wmwJUCxYG17sXqk.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/94Di8UyccbXfU5b1DK4GqRQJeUm99wmwJUCxYG17sXqk.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "He",
+    "family": "Solana Token Creator"
+  }
+}
