@@ -1,0 +1,23 @@
+{
+  "name": "HeSC",
+  "symbol": "HESC",
+  "description": "HeSC",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/A3WqBALT5vnnf9VM4sD392w8efeiZGMbEFXinzUiJg6b.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/A3WqBALT5vnnf9VM4sD392w8efeiZGMbEFXinzUiJg6b.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "HeSC",
+    "family": "Solana Token Creator"
+  }
+}
