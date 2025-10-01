@@ -1,0 +1,23 @@
+{
+  "name": "WINNER",
+  "symbol": "WINNER",
+  "description": "WINNER",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/9C7TMJc8LnaQYH7F9r4V3sJRjS8igyKA9NM84em9v7te.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/9C7TMJc8LnaQYH7F9r4V3sJRjS8igyKA9NM84em9v7te.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "WINNER",
+    "family": "Solana Token Creator"
+  }
+}
