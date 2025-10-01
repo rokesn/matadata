@@ -1,0 +1,23 @@
+{
+  "name": "RAFE",
+  "symbol": "RAFE",
+  "description": "RAFE",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/HS8hiigqfgpxprpDtDAD9yUuwqYpcj4sP2HfETGob2Ru.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/HS8hiigqfgpxprpDtDAD9yUuwqYpcj4sP2HfETGob2Ru.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "RAFE",
+    "family": "Solana Token Creator"
+  }
+}
