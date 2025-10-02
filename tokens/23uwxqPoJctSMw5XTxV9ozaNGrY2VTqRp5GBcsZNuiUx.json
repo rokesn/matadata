@@ -1,0 +1,26 @@
+{
+  "name": "Test Token with Bypass",
+  "symbol": "TESTBYPASS",
+  "description": "Testing token creation with payment bypass",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "@testtoken",
+        "website": "https://example.com"
+      }
+    }
+  ],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Test Token with Bypass",
+    "family": "Solana Token Creator"
+  }
+}
