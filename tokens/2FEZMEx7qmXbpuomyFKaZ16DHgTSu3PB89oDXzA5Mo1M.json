@@ -1,0 +1,48 @@
+{
+  "name": "FSFGS",
+  "symbol": "FSFGS",
+  "description": "FSFGS",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/2FEZMEx7qmXbpuomyFKaZ16DHgTSu3PB89oDXzA5Mo1M.png",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": 1000000
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Creator Name",
+      "value": "Anonymous"
+    },
+    {
+      "trait_type": "Revoke Mint Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Freeze Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Update Authority",
+      "value": "Yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/2FEZMEx7qmXbpuomyFKaZ16DHgTSu3PB89oDXzA5Mo1M.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "FSFGS",
+    "family": "Solana Token Creator"
+  }
+}
