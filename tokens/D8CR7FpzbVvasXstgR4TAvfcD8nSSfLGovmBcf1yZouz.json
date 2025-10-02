@@ -1,0 +1,26 @@
+{
+  "name": "Metadata Test Token",
+  "symbol": "METATEST",
+  "description": "Testing metadata upload and on-chain creation",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "@testtoken",
+        "website": "https://example.com"
+      }
+    }
+  ],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": []
+  },
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Metadata Test Token",
+    "family": "Solana Token Creator"
+  }
+}
