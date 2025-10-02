@@ -1,0 +1,44 @@
+{
+  "name": "He",
+  "symbol": "HE",
+  "description": "He",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/6BDNxuJGpMHN24anpW2B6zDGbXHjgvVrYT1XrFrkdUnm.png",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "https://x.com/Dexerto/status/1970555318250643722",
+        "telegram": "https://web.telegram.org/k/#@trending",
+        "website": "https://simpletoken.app/"
+      }
+    },
+    {
+      "trait_type": "Creator Information",
+      "value": {
+        "name": "RAFE",
+        "wallet": "GyiNmyEAwTzNmGTNwafnJHWQ6q8DKvqRZguSShYGWxtR"
+      }
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/6BDNxuJGpMHN24anpW2B6zDGbXHjgvVrYT1XrFrkdUnm.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6BDNxuJGpMHN24anpW2B6zDGbXHjgvVrYT1XrFrkdUnm",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://simpletoken.app/",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "He",
+    "family": "Solana Token Creator"
+  }
+}
