@@ -1,0 +1,44 @@
+{
+  "name": "lottery",
+  "symbol": "WINNER",
+  "description": "lottery",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/CgM2AzgrrcXt7gEqfgQGFhAj4iMGRfozGSZ4Nsc3VLeR.png",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "https://x.com/Dexerto/status/1970555318250643722",
+        "telegram": "https://web.telegram.org/k/#@trending",
+        "website": "https://simpletoken.app/"
+      }
+    },
+    {
+      "trait_type": "Creator Information",
+      "value": {
+        "name": "RAFE",
+        "wallet": "GyiNmyEAwTzNmGTNwafnJHWQ6q8DKvqRZguSShYGWxtR"
+      }
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/CgM2AzgrrcXt7gEqfgQGFhAj4iMGRfozGSZ4Nsc3VLeR.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CgM2AzgrrcXt7gEqfgQGFhAj4iMGRfozGSZ4Nsc3VLeR",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://simpletoken.app/",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "lottery",
+    "family": "Solana Token Creator"
+  }
+}
