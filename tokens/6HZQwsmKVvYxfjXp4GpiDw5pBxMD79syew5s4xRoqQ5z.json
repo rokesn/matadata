@@ -1,0 +1,39 @@
+{
+  "name": "lottery",
+  "symbol": "LOTTERY",
+  "description": "lottery",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Social Links",
+      "value": {
+        "twitter": "https://x.com/Dexerto/status/1970555318250643722",
+        "telegram": "https://web.telegram.org/k/#@trending",
+        "website": "https://simpletoken.app/"
+      }
+    },
+    {
+      "trait_type": "Creator Information",
+      "value": {
+        "name": "RAFE",
+        "wallet": "GyiNmyEAwTzNmGTNwafnJHWQ6q8DKvqRZguSShYGWxtR"
+      }
+    }
+  ],
+  "properties": {
+    "files": [],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6HZQwsmKVvYxfjXp4GpiDw5pBxMD79syew5s4xRoqQ5z",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://simpletoken.app/",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "lottery",
+    "family": "Solana Token Creator"
+  }
+}
