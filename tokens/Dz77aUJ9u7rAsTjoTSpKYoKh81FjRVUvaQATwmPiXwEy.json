@@ -1,0 +1,65 @@
+{
+  "name": "He",
+  "symbol": "HE",
+  "description": "55",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/Dz77aUJ9u7rAsTjoTSpKYoKh81FjRVUvaQATwmPiXwEy.png",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": 10000
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Creator Name",
+      "value": "RAFE"
+    },
+    {
+      "trait_type": "Revoke Mint Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Freeze Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Update Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/Dexerto/status/1970555318250643722"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://web.telegram.org/k/#@trending"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://simpletoken.app/"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/Dz77aUJ9u7rAsTjoTSpKYoKh81FjRVUvaQATwmPiXwEy.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible",
+    "creators": [
+      {
+        "address": "GyiNmyEAwTzNmGTNwafnJHWQ6q8DKvqRZguSShYGWxtR",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://simpletoken.app/",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "He",
+    "family": "Solana Token Creator"
+  }
+}
