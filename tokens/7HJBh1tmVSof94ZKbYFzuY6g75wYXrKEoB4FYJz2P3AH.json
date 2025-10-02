@@ -1,0 +1,48 @@
+{
+  "name": "Hess",
+  "symbol": "HESS",
+  "description": "Hess",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/7HJBh1tmVSof94ZKbYFzuY6g75wYXrKEoB4FYJz2P3AH.png",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": 1000000
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Creator Name",
+      "value": "Anonymous"
+    },
+    {
+      "trait_type": "Revoke Mint Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Freeze Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Update Authority",
+      "value": "Yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/7HJBh1tmVSof94ZKbYFzuY6g75wYXrKEoB4FYJz2P3AH.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible",
+    "creators": []
+  },
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Hess",
+    "family": "Solana Token Creator"
+  }
+}
