@@ -1,0 +1,51 @@
+{
+  "name": "Test Debug Token",
+  "symbol": "DEBUG",
+  "description": "A test token to debug metadata issues",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": 1000000
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Creator Name",
+      "value": "Debug Tester"
+    },
+    {
+      "trait_type": "Revoke Mint Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Freeze Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Update Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://twitter.com/test"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://example.com"
+    }
+  ],
+  "properties": {
+    "files": [],
+    "category": "fungible",
+    "creators": []
+  },
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Test Debug Token",
+    "family": "Solana Token Creator"
+  }
+}
