@@ -1,0 +1,65 @@
+{
+  "name": "Solana Token Creator Dot Fun",
+  "symbol": "SOLANA TOKEN CREATOR DOT FUN",
+  "description": "Solana Token Creator Dot Fun",
+  "image": "https://raw.githubusercontent.com/rokesn/matadata/main/images/AbAKitH3Q69eu3Ap4fiHKzfoR926z6DmrxVhK131WMoP.png",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": 1000000
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    },
+    {
+      "trait_type": "Creator Name",
+      "value": "RAFE"
+    },
+    {
+      "trait_type": "Revoke Mint Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Freeze Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Revoke Update Authority",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/Createsoltoke"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://web.telegram.org/k/#@Createsoltoke"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://createsolanatokens.fun/"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rokesn/matadata/main/images/AbAKitH3Q69eu3Ap4fiHKzfoR926z6DmrxVhK131WMoP.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible",
+    "creators": [
+      {
+        "address": "GyiNmyEAwTzNmGTNwafnJHWQ6q8DKvqRZguSShYGWxtR",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://createsolanatokens.fun/",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "Solana Token Creator Dot Fun",
+    "family": "Solana Token Creator"
+  }
+}
